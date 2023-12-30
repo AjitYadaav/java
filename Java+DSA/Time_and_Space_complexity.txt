@@ -1,0 +1,7 @@
+O(n)-->Time complexity
+
+Very important result while calculating time complexity
+2^n can be splited into 2^n/2 and 2^n/2 (for even value of n).
+                        and for odd value of n: 2^n/2 ,2^n/2 and 2
+                        example if n=5 then 5/2 gives 2 (int),so 2+2+1 gives 5.
+
